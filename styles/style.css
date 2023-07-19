@@ -261,7 +261,7 @@ footer {
     margin-top: 5%;
 }
 
-.last-section {}
+
 
 .gamer-title .amer-color {
     color: #FFF;
@@ -314,7 +314,7 @@ footer {
     .fig-cap,
     .download-section,
     .download-section-container,
-    .man-img {
+    .man-img, .logo, .footer {
         flex-direction: column;
     }
 
