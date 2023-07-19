@@ -143,6 +143,7 @@ nav {
     border: none;
     font-size: 10px;
     color: #FFF;
+    
 
 }
 
@@ -349,4 +350,20 @@ footer {
     }
 
 
+}
+
+@media screen and (min-width: 576px) and (max-width: 960px) {
+    header {
+        padding: 50px;
+    }
+
+    .nav-container,
+    .banner-container,
+    .online-img,
+    .fig-cap,
+    .download-section,
+    .download-section-container,
+    .man-img, .logo, .footer {
+        flex-direction: column;
+    }
 }
