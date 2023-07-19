@@ -77,7 +77,7 @@ nav {
 
 }
 
-.follow-with .fa-brands{
+.follow-with .fa-brands {
     color: red;
 }
 
@@ -274,21 +274,30 @@ footer {
     gap: 30px;
     margin-top: 10%;
     margin-bottom: 250px;
-  
+
 
 }
 
 
-.logo{
+.logo {
     display: flex;
     text-align: left;
     justify-content: left;
-    
+
 }
 
-.fa-brands{
+.fa-brands {
     color: #FFF;
-    
+
+}
+
+.conditions p {
+    display: flex;
+    color: rgba(255, 255, 255, 0.60);
+    text-align: left;
+    font-size: 16px;
+    font-weight: 500;
+
 }
 
 
